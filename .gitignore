@@ -1,1 +1,4 @@
-node_nodules/
+.vscode
+
+src/public/css/
+node_modules/

@@ -1,0 +1,15 @@
+@import 'variables';
+
+h1{
+    color: $r;
+    background-color: green;
+}
+
+footer{
+    clear: both;
+    position: relative;
+    height: 500px;
+    bottom:0;
+    margin-top: 200px;
+    
+}
